@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>New webpage</title>
+        <style>
+            body {
+                background-color: lightgreen;
+                font-family: "Helvetica", sans-serif;
+            }
+            #heading {
+                color: white;
+            }
+            #essay {
+                color: white;
+                background-color: green;
+            }
+            #cite {
+                background-color: lightgrey;
+                color: white;
+            }
+        </style>
+    </head>
+    <body>
+        
+        <h1 id = "heading">
+            The Difference Between Sci-Fi and Fantasy
+        </h1>
+        
+        <p id = "essay">
+            Place holder.
+        </p>
+        
+        <p id = "cite">
+            Cite: <br>
+            <a href = "https://www.nownovel.com/blog/difference-fantasy-science-fiction/">nownovel.com</a><br>
+            <a href = "http://www.differencebetween.net/miscellaneous/difference-between-sci-fi-and-fantasy/">differencebetween.net</a><br>
+            <a href = "https://www.liveabout.com/difference-between-sci-fi-and-fantasy-2957788">liveabout.com</a>
+        </p>
+        
+    </body>
+</html>
